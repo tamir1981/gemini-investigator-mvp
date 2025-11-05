@@ -1,0 +1,5 @@
+# requirements.txt
+# (תלויות מינימליות לפריסה ב-Cloud Run)
+
+streamlit
+google-cloud-aiplatform
